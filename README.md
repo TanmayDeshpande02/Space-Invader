@@ -1,2 +1,2 @@
 # Space-Invader
-Space Invader game with use of Pygame.
+Space Invader game with Pygame.
